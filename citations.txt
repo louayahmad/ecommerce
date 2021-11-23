@@ -1,0 +1,8 @@
+Admin page HTML and CSS used from https://usebootstrap.com/theme/adminlte-v2
+The folders included with this template and are not our code include ../plugins, ../pages, ../documentation, ../dist, ../build, ../bower_components.
+The rest of the files contain our own PHP code and other HTML files that are cited and modified to fit our needs.  
+HTML and CSS for main site came from this template https://www.mgtechnologies.co.in/product/coza-store-ecommerce-website-template
+We do not take credit for the code. The folders included in the template are ../vendor, ../js, ../fonts, and ../css.
+The rest of the files contain our own PHP code and other HTML files that are cited and modified to fit our needs.
+
+Also, the images in ../uploads do not belong to us. 
