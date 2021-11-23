@@ -1,4 +1,4 @@
-# ecommerce
+# Full Stack Ecommerce Website
 
 An ecommerce site that allows users to make customer accounts, add products to cart, and checkout using PHP and SQL. 
 
